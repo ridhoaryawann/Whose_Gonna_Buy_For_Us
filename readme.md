@@ -30,4 +30,4 @@ The directory structure of IndoMarket project looks like this:
 
 ## Contribute
 
-If you'd like to contribute to IndoMarket Apps, check out https://github.com/ridhoaryawann/Whose_Gonna_Buy_For_Us.git, or feel free to contact me.
+If you'd like to contribute, check out https://github.com/ridhoaryawann/Whose_Gonna_Buy_For_Us.git, or feel free to contact me.

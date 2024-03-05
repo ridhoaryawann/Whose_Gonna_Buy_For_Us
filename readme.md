@@ -1,4 +1,4 @@
-![Header](./docs/header.png)
+![Header](./docs/header.jpg)
 
 ## About
 
